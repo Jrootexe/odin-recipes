@@ -34,12 +34,22 @@ h1{
 
 h2, h3{
     text-decoration: underline;
+    margin-bottom: -12px;
 }
 
 .text, ul li, ol li{
     color:darkgreen
 }
+
+.text{
+margin: 0px 4px;
+}
+
 .bottom{
     margin-top: 12cm;
     font-weight: bold;
+}
+
+.io {
+    margin-bottom: 4px;
 }
